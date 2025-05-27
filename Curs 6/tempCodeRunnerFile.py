@@ -1,0 +1,1 @@
+print(card._CardSTB_nume)
